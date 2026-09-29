@@ -39,4 +39,6 @@ Diseñar e implementar una plataforma web que permita a la empresa gestionar y m
 | Administración de la empresa | Gestiona la información relacionada con los productos | Mantener la información organizada y actualizada |
 | Administrador de sistemas | Gestiona la infraestructura informática y de red | Mantener el funcionamiento y disponibilidad de los sistemas |
 
+### Estado del proyecto
 
+La documentación inicial del proyecto ha sido publicada mediante GitHub Pages.
