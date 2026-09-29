@@ -39,6 +39,22 @@ Diseñar e implementar una plataforma web que permita a la empresa gestionar y m
 | Administración de la empresa | Gestiona la información relacionada con los productos | Mantener la información organizada y actualizada |
 | Administrador de sistemas | Gestiona la infraestructura informática y de red | Mantener el funcionamiento y disponibilidad de los sistemas |
 
+
+## 1.6 Alcance del proyecto
+
+El proyecto comprende el diseño e implementación de una plataforma web para la gestión y selección de equipos informáticos destinada a clientes empresariales.
+
+El alcance incluye:
+
+* Desarrollo de una página web para mostrar el catálogo de equipos informáticos.
+* Organización de los productos para facilitar su consulta y comparación.
+* Presentación de las características técnicas y el precio de cada producto.
+* Diseño de una base de datos para almacenar y gestionar la información de los productos.
+* Diseño de la red local necesaria para el funcionamiento de la empresa.
+* Integración de los diferentes elementos del proyecto para crear un entorno informático funcional y organizado.
+* Elaboración de la documentación técnica del proyecto.
+
+
 ### Estado del proyecto
 
 La documentación inicial del proyecto ha sido publicada mediante GitHub Pages.
