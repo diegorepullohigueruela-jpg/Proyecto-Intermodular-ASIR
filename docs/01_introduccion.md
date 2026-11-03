@@ -19,11 +19,17 @@ Diseñar e implementar una plataforma web y una infraestructura informática que
 ### Objetivos especificos
 
 -Crear una página web funcional con tablón de anuncios, actas, documentos y normas de la comunidad.
+
 -Implementar un sistema de gestión de incidencias y de reserva de zonas comunes.
+
 -Diseñar una base de datos para almacenar la información de los vecinos, las incidencias, las reservas y los documentos.
+
 -Facilitar la comunicación entre los vecinos, el presidente y el administrador de fincas.
+
 -Diseñar la red local y los sistemas de seguridad de las zonas comunes.
+
 -Garantizar la copia de seguridad de la información y el cumplimiento de la normativa de protección de datos.
+
 
 ## 1.5. Interesados
 
