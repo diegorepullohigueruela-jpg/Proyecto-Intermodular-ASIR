@@ -1,34 +1,29 @@
 # Introducción
 
 ## 1.2 CONTEXTO
-El proyecto se va a plantear para una empresa que se dedica a la venta de equipos informaticos a otras empresas. La empresa dispondra de numerosos productos para poder cubrir todas las necesidades de la empresa.
+El proyecto se plantea para una comunidad de vecinos que cuenta con zonas comunes (portal, garaje, piscina, sala de reuniones, etc.) y que necesita modernizar su infraestructura informática y sus servicios digitales. La comunidad dispondrá de una red local, sistemas de seguridad y herramientas de gestión para cubrir las necesidades de vecinos, presidente y administrador de fincas.
 
-Actualmente, la gran cantidad de productos y características técnicas puede dificultar que los clientes encuentren y comprendan fácilmente qué equipo se adapta mejor a sus necesidades. Por este motivo, surge la necesidad de disponer de una plataforma que permita organizar y mostrar los productos de una forma clara y sencilla.
-
-El proyecto también contempla la infraestructura informática necesaria para el funcionamiento de la empresa, incluyendo la gestión de la información de los productos y la red local de la organización.
+Actualmente, la gestión de la comunidad suele realizarse de forma poco organizada: actas y documentos en papel o dispersos, avisos a través de grupos de mensajería, incidencias comunicadas de forma informal y ausencia de una infraestructura de red y seguridad bien planificada. Por este motivo, surge la necesidad de disponer de una plataforma que permita organizar la información de la comunidad y facilitar la comunicación entre los vecinos y la administración
 
 
 ## 1.3. Problemática o necesidad
 
-La empresa ofrece una gran variedad de equipos informáticos destinados a diferentes tipos de clientes empresariales. Sin embargo, la cantidad de productos y sus diferentes características técnicas pueden hacer que resulte complicado comparar los equipos y elegir el más adecuado.
-
-Además, parte de los clientes puede no tener conocimientos técnicos suficientes para interpretar fácilmente las características de un ordenador, como el procesador, la memoria RAM, el almacenamiento o la tarjeta gráfica. Esto puede provocar dudas y hacer que el proceso de selección de un equipo sea más lento y complicado.
-
-Por tanto, existe la necesidad de facilitar la consulta y comparación de los equipos informáticos, mostrando la información de los productos de una forma clara, organizada y fácil de comprender.
+La comunidad de vecinos gestiona numerosos asuntos de interés común, como el mantenimiento de las instalaciones, las incidencias, las reservas de zonas comunes, las convocatorias de juntas y la documentación económica. Sin embargo, la falta de un sistema centralizado puede hacer que resulte complicado consultar la información, comunicar avisos y realizar un seguimiento adecuado de cada asunto.
 
 ## 1.4 Objetivos
 
 ### Objetivo general
 
-Diseñar e implementar una plataforma web que permita a la empresa gestionar y montar de forma sencilla el catalogo de los equipos infromaticos, dando como resultado la facilidad a otras empresas a la hora de la seleccion de sus equipos respecto a sus necesidades.
+Diseñar e implementar una plataforma web y una infraestructura informática que permitan a la comunidad de vecinos gestionar de forma sencilla su información, incidencias, reservas y comunicaciones, facilitando a los vecinos y al administrador el acceso a los servicios de la comunidad y garantizando la seguridad de las instalaciones.
 
 ### Objetivos especificos
 
-- Crear una página web funcional para mostrar los diferentes equipos informáticos disponibles.
-- Mostrar informacion detallada de los productos.
-- Diseñar una base de datos para recolectar toda la informacion de la pagina web y de los productos.
-- Facilitar la seleccion de los equipos informaticos dependiendo de las necesidades de la empresa.
-- Organizar los productos de manera clara.
+-Crear una página web funcional con tablón de anuncios, actas, documentos y normas de la comunidad.
+-Implementar un sistema de gestión de incidencias y de reserva de zonas comunes.
+-Diseñar una base de datos para almacenar la información de los vecinos, las incidencias, las reservas y los documentos.
+-Facilitar la comunicación entre los vecinos, el presidente y el administrador de fincas.
+-Diseñar la red local y los sistemas de seguridad de las zonas comunes.
+-Garantizar la copia de seguridad de la información y el cumplimiento de la normativa de protección de datos.
 
 ## 1.5. Interesados
 
