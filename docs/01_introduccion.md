@@ -34,26 +34,26 @@ Diseñar e implementar una plataforma web y una infraestructura informática que
 ## 1.5. Interesados
 
 | Interesado | Relación con el proyecto | Necesidad principal |
-|---|---|---|
-| Clientes empresariales | Consultan y seleccionan los equipos informáticos | Encontrar fácilmente equipos adecuados a sus necesidades |
-| Personal de ventas | Utiliza la información de los productos para atender a los clientes | Disponer de información clara y organizada |
-| Administración de la empresa | Gestiona la información relacionada con los productos | Mantener la información organizada y actualizada |
-| Administrador de sistemas | Gestiona la infraestructura informática y de red | Mantener el funcionamiento y disponibilidad de los sistemas |
+| :--- | :--- | :--- |
+| **Clientes empresariales** | Utilizan la plataforma web para consultar, filtrar y seleccionar los equipos informáticos que mejor se adapten a sus necesidades operativas. | Disponer de un catálogo intuitivo que permita encontrar y comparar equipos fácilmente. |
+| **Personal de ventas** | Emplean la plataforma y la información de los productos como herramienta de apoyo en la atención y asesoramiento a los clientes. | Acceder a especificaciones claras, organizadas y actualizadas de cada producto. |
+| **Administración de la empresa** | Gestionan el catálogo, la base de datos y los registros comerciales de la organización a través del sistema. | Mantener la información de los productos organizada, segura y siempre actualizada. |
+| **Administrador de sistemas** | Se encarga de la configuración, mantenimiento y supervisión de la infraestructura informática, los servidores y la red local. | Asegurar el correcto funcionamiento, disponibilidad y seguridad de toda la infraestructura técnica. |
 
 
-## 1.6 Alcance del proyecto
+## 1.6. Alcance del proyecto
 
-El proyecto comprende el diseño e implementación de una plataforma web para la gestión y selección de equipos informáticos destinada a clientes empresariales.
+El proyecto comprende el diseño e implementación de una plataforma web y de la infraestructura informática necesaria para la gestión y selección de equipos informáticos destinada a clientes empresariales, cubriendo las necesidades tanto de los usuarios externos como del personal interno y la administración.
 
 El alcance incluye:
 
-* Desarrollo de una página web para mostrar el catálogo de equipos informáticos.
-* Organización de los productos para facilitar su consulta y comparación.
-* Presentación de las características técnicas y el precio de cada producto.
-* Diseño de una base de datos para almacenar y gestionar la información de los productos.
-* Diseño de la red local necesaria para el funcionamiento de la empresa.
-* Integración de los diferentes elementos del proyecto para crear un entorno informático funcional y organizado.
-* Elaboración de la documentación técnica del proyecto.
+- Desarrollo de una plataforma web interactiva para mostrar el catálogo de equipos informáticos de forma estructurada.
+- Organización avanzada de los productos para facilitar su consulta, filtrado y comparación técnica.
+- Presentación detallada de las características técnicas, especificaciones y precios de cada equipo.
+- Diseño e implementación de una base de datos centralizada para almacenar y gestionar de forma eficiente la información de los productos y la actividad de la plataforma.
+- Diseño y planificación de la red local y los servicios de infraestructura necesarios para garantizar el correcto funcionamiento de los sistemas en la empresa.
+- Integración de los diferentes elementos software y hardware del proyecto para crear un entorno informático funcional, seguro y organizado.
+- Elaboración de la documentación técnica completa del proyecto y la validación del cumplimiento de las normativas vigentes.
 
 
 ### Estado del proyecto
